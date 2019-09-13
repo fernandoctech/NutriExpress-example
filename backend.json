@@ -6,6 +6,7 @@
       "description": "São descritas como intolerancia alimentares...",
       "title_p1": "Orientação para intolerância a lactose",
       "paragraph_1": "São descritas como intolerâncias alimentares qualquer resposta diferente a um aditivo ou alimento, sem que haja as intervenções imunológicas. A intolerância a Lactose é caracterizada pela incapacidade de absorver a lactose, devido a  falta da ação da enzima lactase, que é responsável por hidrolisar a lactose em glicose e galactose. ",
+      "title_p2": "O que é Lorem Ipsum?",
       "paragraph_2": " Os principais sinais da IL são distensão abdominal, desnutrição e  desidratação. E os principais sintomas é dor na região abdominal, desconforto abdominal, vômitos, náuseas, flatulência e diarreias.",
       "title_p4": "Orientação Nutricional:",
       "paragraph_4": {
@@ -28,13 +29,14 @@
       "title_p3": "SINTOMAS",
       "paragraph_3": " Hiperglicemia, perda de peso significativa, sede excessiva, desidratação, distúrbio eletrolítico e cetoacidose, fadiga, micção freqüente.",
       "title_p4": "ORIENTAÇÕES NUTRICIONAIS",
-      "paragraph_4": "",
-      "item1": "Mastigue bem os alimentos;",
-      "item2": "Mantenha-se sempre hidratado, ingerir no mínimo 2 (dois) litros de água por dia;",
-      "item3": "Mantenha uma dieta balanceada, rica em fonte de fibras e cereais integrais (linhaça, chia, arroz integral, etc);",
-      "item4": "Reduza a ingestão de alimentos gordurosos;",
-      "item5": "Evite os açúcares simples (balas, refrigerantes, bolos, chocolates,etc), por conter quantidades excessivas de açúcar;",
-      "item6": "Evite alimentos industrializados (batata frita, embutidos, salsicha, calabresa, mortadela, etc);",
+      "paragraph_4": {
+        "item1": "Mastigue bem os alimentos;",
+        "item2": "Mantenha-se sempre hidratado, ingerir no mínimo 2 (dois) litros de água por dia;",
+        "item3": "Mantenha uma dieta balanceada, rica em fonte de fibras e cereais integrais (linhaça, chia, arroz integral, etc);",
+        "item4": "Reduza a ingestão de alimentos gordurosos;",
+        "item5": "Evite os açúcares simples (balas, refrigerantes, bolos, chocolates,etc), por conter quantidades excessivas de açúcar;",
+        "item6": "Evite alimentos industrializados (batata frita, embutidos, salsicha, calabresa, mortadela, etc);"
+      },
       "authorId": 3,
       "id": 2
     },
