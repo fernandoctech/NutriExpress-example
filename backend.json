@@ -1,7 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
       "image": "https://lh3.googleusercontent.com/4eh3s7uP9nLTBFDaG_DsG2sL4LEgF5s2yS4G_mYx5T9xsMq_ygkFpULkZRTWz-61ZPC2fa58VeyQ0LlG_l9_heG0Z50ZI33EI_yEFXZqISg_L4qxEpAWHUJHMcUrWAv04hl71gLH5sl2998iox1wyNydai3LEnIkE-tCOpZFIESn1c4LtMFiH76EWev5p__87hm9B8jADQA4sIWPQgaWsMOaWtrjQanOUdT1KUwe2mFRoQJuc3NTRAuXsAfRFQpWdZcVpp6L0pJFzhY0zoiwKgt4mgPH5RRk9b_RLqzBIkPBLUa8TRlSFggLg0al6AKMdUzvBGz8c4uygkPW3jPQtfm8Im1dCQzkcwwQadcsMBz8TlOa_h9p7SzH10qsFohgBNY-PPzrhf_INRDN_eM1mH_XLAarAEY7QccD7q1__1Ul8IQjiw6ZCf-1dIV-F0S3Y1ILnGWVVVrcaplG4TUSuT7gR0jCp4vb1FN8nSuSbWJNNLStbxRUwl2NPn01TQ05IKIQts4pO5XJwef1A316hMe0CHYOWp7LZjcO6YuWX_9YGlvOm7OJ9tP-oMwrjJLyweedyU5qQ2Pun4OQ-Yki7jwxOaqIrhMJt5-u9F1zwszIA8NJ-WJ5xwl53jQBRahdlBfqqadjkNLS1smRQIkv_wu4D8igiijpZiA5-dAxlwMOn6LYFwHxYBg=w400-h277-no",
       "title": "Intolerancia A Lactose",
       "description": "São descritas como intolerancia alimentares...",
@@ -9,11 +8,15 @@
       "paragraph_1": "São descritas como intolerâncias alimentares qualquer resposta diferente a um aditivo ou alimento, sem que haja as intervenções imunológicas. A intolerância a Lactose é caracterizada pela incapacidade de absorver a lactose, devido a  falta da ação da enzima lactase, que é responsável por hidrolisar a lactose em glicose e galactose. ",
       "title_p2": "O que é Lorem Ipsum?",
       "paragraph_2": " Os principais sinais da IL são distensão abdominal, desnutrição e  desidratação. E os principais sintomas é dor na região abdominal, desconforto abdominal, vômitos, náuseas, flatulência e diarreias.",
-      "title_p3": "Porque nós o usamos?",
-      "paragraph_3": " Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney College na Virginia, pesquisou uma das mais obscuras palavras em latim, consectetur, oriunda de uma passagem de Lorem Ipsum, e, procurando por entre citações da palavra na literatura clássica, descobriu a sua indubitável origem. Lorem Ipsum vem das seções 1.10.32 e 1.10.33 do  (Os Extremos do Bem e do Mal), de Cícero, escrito em 45 AC. Este livro é um tratado de teoria da ética muito popular na época da Renascença. A primeira linha de Lorem Ipsum, ",
-      "title_p4": "De onde ele vem?",
-      "paragraph_4": "É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de Conteúdo aqui, conteúdo aqui , fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por  mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).",
-      "authorId": 1
+      "title_p4": "Orientação Nutricional:",
+      "paragraph_4": {
+        "item1": "Analisar os rótulos dos alimentos, para verificar se possui lactose nos seus ingredientes",
+        "item2": "Consumir fibras, tais como maçã com casca,soja em grão, alface e etc, para melhorar o trânsito intestinal",
+        "item3": "Orienta-se consumir probioticos e prebioticos, para melhorar a microbiota intestinal  e garantir uma boa imunidade.",
+        "item4": "Orienta-se consumir alimentos e bebidas  sem lactose, para evitar os eventos provocados pela doença."
+      },
+      "authorId": 1,
+      "id": 1
     },
     {
       "title": "DIABETES",
