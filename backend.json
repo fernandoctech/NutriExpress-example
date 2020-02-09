@@ -136,12 +136,12 @@
   
   "feed":[
     {
-      "id": 1
+      "id": 1,
       "title": "Intolerancia A Lactose"
       
     },
     {
-      "id": 2
+      "id": 2,
       "title": "Intolerancia A bebedeira"
       
     }
