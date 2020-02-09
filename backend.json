@@ -1,14 +1,5 @@
 {
-  "feed":[
-    {
-      "title": "Intolerancia A Lactose"
-      "id": 1
-    },
-    {
-      "title": "Intolerancia A bebedeira"
-      "id": 2
-    }
-  ],
+  
   
   "posts": [
     {
@@ -141,5 +132,18 @@
       "instagram": "prazersougilmara"
     }
 
-  ]
+  ],
+  
+  "feed":[
+    {
+      "id": 1
+      "title": "Intolerancia A Lactose"
+      
+    },
+    {
+      "id": 2
+      "title": "Intolerancia A bebedeira"
+      
+    }
+  ],
 }
