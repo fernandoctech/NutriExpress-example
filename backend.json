@@ -137,12 +137,20 @@
   "feed":[
     {
       "id": "fa2a965f83de075cb46524c926037449",
-      "title": "Intolerancia A Lactose"
+      "title": "ReacJS Épico",
+      "img":"https://i.ibb.co/2YqFDF7/Black-Circle-with-Utensils-Restaurant-Logo.png"
       
     },
     {
       "id": "f4f5311ad2ec25147bc458d791fdaeb5",
-      "title": "Intolerancia A bebedeira"
+      "title": "NodeJS e Suas riquezas",
+      "img":"https://i.ibb.co/2YqFDF7/Black-Circle-with-Utensils-Restaurant-Logo1.png"
+      
+    }
+     {
+      "id": "f4f5311ad2ec25147bc458d791fdaeb5",
+      "title": "ReactNative Nativo",
+      "img":"https://i.ibb.co/2YqFDF7/Black-Circle-with-Utensils-Restaurant-Logo1.png"
       
     }
   ]
